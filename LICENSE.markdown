@@ -1,3 +1,5 @@
+Except where otherwise indicated, (see `NOTICE.markdown`) all content for this game is provided under the terms of the __CC0 1.0 Universal__ license.
+
 # CC0 1.0 Universal
 
 ```
