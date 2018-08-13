@@ -1,6 +1,6 @@
 # Where Is My EXPER3 2016 Entry?
 
-You can play *The Endless Masquerade* at [http://exper3-2016.november-fifth.com/]!
+You can play *The Endless Masquerade* at http://exper3-2016.november-fifth.com/!
 
 ## Where Is the *Code* for My EXPER3 2016 Entry?
 
@@ -12,4 +12,4 @@ It is entirely possible that these concerns are unfounded and all of this would 
 
 ---
 
-This document is released into the public domain under the terms of the __CC0 1.0 Universal__ license. A copy of this license can be found in `[LICENSE.markdown]`.
+This document is released into the public domain under the terms of the __CC0 1.0 Universal__ license. A copy of this license can be found in `LICENSE.markdown`.
